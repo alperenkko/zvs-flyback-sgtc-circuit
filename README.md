@@ -1,0 +1,1 @@
+Hello, this is a project that i designed using youtube and Gemini AI. it is a spark gap tesla coil that uses a  zvs driver and a flyback transformer to charge a pack of capacitors and gives off huge spark gaps that reach even 40 cm on open air with a load top. thats all for now. 
