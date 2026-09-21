@@ -1,0 +1,19 @@
+﻿Item Name;Quantity;Price ($);Purpose;Item Link
+24V 10A Metal case Adapter - LED Driver;1; $16,50 ;Power supply (can be used for  a power supply project later);https://www.trendyol.com/hightek/24v-10a-metal-kasa-adaptor-led-driver-p-827938556?boutiqueId=61&merchantId=920162&storefrontId=1&countryCode=TR&language=tr&gads=true
+CAP.FILM 22nF 300VAC 1kVDC;52; $30,00 ;capacitor bank for spark gap and loud arcs;ozdisan .pdf file
+IRFP260N MOSFET DIS.50A 200V N-CH TO247AC HEXFET THT;4; $3,68 ;switching the voltage on and off at a high frequency;ozdisan .pdf file
+UF5408 Ultra fast 3A 1000v diode;4; $0,35 ;protecting the pins and preventing back voltage;ozdisan .pdf file
+1N4742A 12v 1A zener diode;5; $0,16 ;zener diode for gate pins;ozdisan .pdf file
+1/4w 10k resistor;10; $0,13 ;resistor for gate pins;ozdisan .pdf file
+2w 470 ohms resistor;5; $0,19 ;gate protecting;ozdisan .pdf file
+1uf 310v pp capacitor;1; $0,56 ;frequency tuning- different values needed;ozdisan .pdf file
+220nf 310v pp capacitor;1; $0,18 ;frequency tuning- different values needed;ozdisan .pdf file
+470nf 310v pp capacitor;1; $0,32 ;frequency tuning- different values needed;ozdisan .pdf file
+2w 2.2k resistor;8; $0,52 ;different value resistor for gate pin;ozdisan .pdf file
+1/2w 200 ohm resistor;10; $0,19 ;different value resistor for gate pin;ozdisan .pdf file
+CF199T2510C ferrite core;2; $0,85 ;ferrite core for voltage waving and high frequency;ozdisan .pdf file
+HC-T03P   TO-247 Isolator;10; $0,61 ;for connecting 2 mosfets on the same cooler- needed 10;ozdisan .pdf file
+400W 15A DC-DC Step UP Module;1; $6,02 ;adjusting the input of the circuit-(can be used for psuproject);ozdisan .pdf file
+SHİPPİNG;1; $5,00 ;SHİPPİNG COST;
+TOTAL;; 70 usd requested ;;
+;;;;
