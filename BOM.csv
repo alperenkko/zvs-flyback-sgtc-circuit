@@ -1,0 +1,19 @@
+Item Name;Quantity;Unit Price ($);Total Price ($);Purpose;Item Link
+24V 10A Metal case Adapter - LED Driver;1;16.50;16.50;Power supply;https://www.trendyol.com/...
+CAP.FILM 22nF 300VAC 1kVDC;52;0.58;30.00;Capacitor bank for spark gap and loud arcs;ozdisan .pdf file
+IRFP260N MOSFET DIS.50A 200V N-CH TO247AC;4;0.92;3.68;High frequency switching;ozdisan .pdf file
+UF5408 Ultra fast 3A 1000v diode;4;0.09;0.35;Gate protection and back voltage prevention;ozdisan .pdf file
+1N4742A 12v 1A zener diode;5;0.03;0.16;Gate voltage protection;ozdisan .pdf file
+1/4w 10k resistor;10;0.01;0.13;Gate pull-down resistor;ozdisan .pdf file
+2w 470 ohms resistor;5;0.04;0.19;Gate resistor;ozdisan .pdf file
+1uf 310v pp capacitor;1;0.56;0.56;LC tank tuning;ozdisan .pdf file
+220nf 310v pp capacitor;1;0.18;0.18;LC tank tuning;ozdisan .pdf file
+470nf 310v pp capacitor;1;0.32;0.32;LC tank tuning;ozdisan .pdf file
+2w 2.2k resistor;8;0.07;0.52;Gate supply resistor;ozdisan .pdf file
+1/2w 200 ohm resistor;10;0.02;0.19;Gate resistor;ozdisan .pdf file
+CF199T2510C ferrite core;2;0.43;0.85;Choke inductor core;ozdisan .pdf file
+HC-T03P TO-247 Isolator;10;0.06;0.61;TO-247 heatsink insulation;ozdisan .pdf file
+400W 15A DC-DC Step UP Module;1;6.02;6.02;Voltage adjustment;ozdisan .pdf file
+Shipping Cost;1;5.00;5.00;Shipping fee;-
+TOTAL;--;--;65.26;Total items cost;-
+REQUESTED TOTAL;--;--;70.00;Budget requested with margin;-
